@@ -3,9 +3,9 @@
     font-family: 'FonteLogo';
     src: url("../fonts/bubblegum-sans-regular.otf");
 }
-@viewport {
+@viewport{
     zoom: 1.0;
-    width: extend-to-zoom;
+    width: device-width;
 }
 
 body {
