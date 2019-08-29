@@ -15,6 +15,7 @@ area {
 }
 
 img#esquema {
+    relative;
     width: 500;
     height: 280px;
 }
