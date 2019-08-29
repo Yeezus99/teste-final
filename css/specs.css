@@ -13,5 +13,11 @@ iframe#frame-spec {
 
 area {
     outline: 0;
-} 
+}
+
+img#esquema {
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+}
 
