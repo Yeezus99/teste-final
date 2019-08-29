@@ -4,8 +4,7 @@ section#conteudo {
 }
 
 iframe#frame-spec {
-    max-width: 400px;
-    width: 100%;
+    width: 400px;
     height: 280px;
     border: none;
     overflow: hidden;
@@ -16,9 +15,7 @@ area {
 }
 
 img#esquema {
-    position: relative;
-    max-width: 500px;
-    width: 100%;
-    height: auto;
+    width: 500;
+    height: 280px;
 }
 
